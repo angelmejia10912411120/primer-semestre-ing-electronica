@@ -1,4 +1,5 @@
-# primer-semestre-ing-electronica
+# primer-codigo-esfera
+
 void setup() {
   size(400, 400);  // Establece el tamaño del lienzo
 }
